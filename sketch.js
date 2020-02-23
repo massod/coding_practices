@@ -10,6 +10,6 @@ function setup(){
 
 function draw(){
 
-    background(0);
+    background(204);
     bubble.display();
 }

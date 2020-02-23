@@ -9,8 +9,7 @@ function setup(){
 }
 
 function draw(){
-
-    background(204);
+    background(200);
     bubble.display();
-    //ellipse(200,200,40,40);
+    ellipse(200,200,40,40);
 }

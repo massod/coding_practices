@@ -12,8 +12,8 @@ class Bubble{
     display(){
         
         //noFill();
-        strokeWeight(2);
-        stroke(255);
+        //strokeWeight(2);
+        //stroke(255);
         ellipse(this.pos.x, this.pos.y,40,40);
     }
 

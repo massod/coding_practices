@@ -12,7 +12,9 @@ class Bubble{
     display(){
         
         noFill();
-        ellipse(this.x, this,y,40,40);
+        strokeWeight(2);
+        stroke(255);
+        ellipse(this.pos.x, this.pos.y,40,40);
     }
 
     applyForce(force){

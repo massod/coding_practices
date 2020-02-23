@@ -1,15 +1,15 @@
 
 
-let bubble;
+let ball;
 
 function setup(){
 
     createCanvas(400,400);
-    bubble = new Bubble(200,200);
+    ball = new Bubble(200,200);
 }
 
 function draw(){
     background(200);
-    bubble.display();
-    ellipse(200,200,40,40);
+    ball.display();
+    //ellipse(200,200,40,40);
 }

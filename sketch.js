@@ -8,7 +8,7 @@ function setup(){
     bubble = new Bubble(width/2, height/2);
 }
 
-function setup(){
+function draw(){
 
     background(204);
     bubble.display();

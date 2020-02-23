@@ -5,7 +5,7 @@ let bubble;
 function setup(){
 
     createCanvas(400,400);
-    bubble = new Bubble(width/2, height/2);
+    bubble = new Bubble(200,200);
 }
 
 function draw(){

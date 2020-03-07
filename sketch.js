@@ -1,4 +1,4 @@
-
+//p5 library is mianly targeted for  visual artistic works
 
 function setup(){
     createCanvas(400,400);

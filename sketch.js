@@ -8,4 +8,5 @@ function setup(){
 function draw(){
     //fill(255);
     ellipse(200,200,40,40);
+    rect(100,100,40,40);
 }
